@@ -66,7 +66,7 @@ const Cards = () => {
               </div>
               <p className="item_description">
               A business must always introspect the areas where they lack in order to bring a positive
-               change in the work environment.the main precautions or a contingency plan for business.
+               change in the work environment.the main precautions or a contingency plan for business...
               </p>
             </div>
           </a>
@@ -92,7 +92,7 @@ const Cards = () => {
               <p className="item_description">
                 Machine learning is a field of artificial intelligence that uses
                 statistical techniques to give computer systems the ability to
-                “learn” (e.g., progressively
+                “learn” (e.g., progressively...
               </p>
             </div>
           </a>
@@ -118,7 +118,7 @@ const Cards = () => {
               <p className="item_description">
                 Machine Learning is a subset of artificial intelligence which is
                 an important part of computer science. The revolution of Big
-                Data promises to transform the
+                Data promises to transform the...
               </p>
             </div>
           </a>
@@ -144,7 +144,7 @@ const Cards = () => {
               <p className="item_description">
                 Cloud computing has been rapidly gaining pace in the world of
                 information technology. It has been observed that over 90% of
-                global enterprises are using cloud
+                global enterprises are using cloud...
               </p>
             </div>
           </a>
@@ -168,7 +168,7 @@ const Cards = () => {
               <p className="item_description">
                 Cybersecurity plays an integral role in the process of good
                 business models. But even cybersecurity programs built with good
-                intentions can fall short in
+                intentions can fall short in...
               </p>
             </div>
           </a>
@@ -193,7 +193,7 @@ const Cards = () => {
               </div>
               <p className="item_description">
               Really ecstatic and immensely proud to introduce you all to our latest attempt 
-              of adding value and making an impact to the world we are a part of.
+              of adding value and making an impact to the world we are a part of...
                 
               </p>
             </div>
