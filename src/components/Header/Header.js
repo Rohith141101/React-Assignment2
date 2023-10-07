@@ -1,10 +1,8 @@
-import React, { useState } from "react";
+import React from "react";
 import "./header.css";
 
 
 const Header = () => {
-  const [visible, setVisible] = useState(false);
-
   return (
     <header>
       <nav>
